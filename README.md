@@ -3,17 +3,10 @@ Curso: Linguagem de Programação C
 2025 - Uniruy Wyden
 
 ## OBJETIVO
-O trabalho tem o objetivo de solucionar 100 questões das listas de atividade da IFSC e PUCRS na matéria de introdução a programação em linguagem .c
+Este trabalho tem como objetivo resolver 100 exercícios em linguagem C, com base nas listas do IFSC e PUCRS. Cada exercício está em um arquivo `.c` separado
+
 ## Observações
 Resolução de questões estão em linguagem .C
-
 Possui comentários explicativos das funções dentro do código 
-
 Identação e nomenclatura adequada
-## Como Acessar a Atividade
-Selecionar 100Questoes-LinguagemC/
 
-Pasta IFSC/ para ver as soluções
-
-Pasta PUCRS/ para ver as soluções 
-## Link da Atividade
