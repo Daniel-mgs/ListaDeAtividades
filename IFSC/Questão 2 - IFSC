@@ -12,7 +12,7 @@ int main() {
     AREA = PI * RAIO * RAIO;
 
     // Exibe o resultado
-    printf("A area da circunferencia e: %.2f\n", AREA);
+    printf("A área da circunferencia é: %.2f\n", AREA);
 
     return 0;
 }
