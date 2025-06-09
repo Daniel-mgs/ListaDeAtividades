@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+int main() {
+    char letra;
+
+    printf("Digite a primeira letra do estado civil: ");
+    scanf(" %c", &letra); // espa�o antes de %c para ignorar ENTER anterior
+
+    switch (letra) {
+        case 'S':
+        case 's':
+            printf("Solteiro\n");
+            break;
+
+        case 'C':
+        case 'c':
+            printf("Casado\n");
+            break;
+
+        case 'V':
+        case 'v':
+            printf("Vi�vo\n");
+            break;
+
+        case 'D':
+        case 'd':
+            printf("Divorciado\n");
+            break;
+
+        case 'Q':
+        case 'q':
+            printf("Desquitado\n");
+            break;
+
+        default:
+            printf("Estado civil inv�lido!\n");
+    }
+
+    return 0;
+}
