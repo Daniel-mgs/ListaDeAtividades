@@ -1,6 +1,9 @@
 Professor: Heleno Cardoso 
+
 Aluno: Daniel Moreira
+
 Curso: Linguagem de Programação C
+
 2025 - Uniruy Wyden
 
 ## OBJETIVO
