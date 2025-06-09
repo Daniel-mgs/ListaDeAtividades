@@ -1,15 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
-/*82. Construa um algoritmo que, tendo como dados de entrada o pre�o de um
-produto e um c�digo de origem, mostre o pre�o junto de sua proced�ncia (ex.
-500,00 � Sul). Caso o c�digo n�o seja nenhum dos especificados, o produto
-deve ser encarado como importado.
-C�digo de origem
-1 � Sul 5 ou 6 � Nordeste
-2 � Norte 7 ou 8 ou 9 � Sudeste
-3 � Leste 10 at� 20 � Centro Oeste
-4 � Oeste 25 at� 35 � Nordeste
-*/
+#include <stdlib.h
 
 
 
